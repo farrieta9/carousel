@@ -1,0 +1,153 @@
+/* Tablets & Desktops */
+@media all and (min-width:768px){
+    .carousel-control {
+        width: 30px;
+        background-color: black;
+        opacity: 1;
+        right: 0;
+    }
+
+    .carousel-control.right {
+        right: -2%;
+    }
+
+    .carousel-control.left {
+        left: -2%;
+    }
+
+    .carousel-caption {
+        left: 5%;
+        right: 5%;
+        font-size: 24px;
+        top: 40%;
+        line-height: 1.05em;
+    }
+
+    .header {
+        font-size: 36px;
+    }
+
+    .item-footer {
+        position: absolute;
+        bottom: 0;
+        margin: 0;
+        height: 3em;
+        text-align: center;
+        display: -webkit-inline-box;
+    }
+
+    .item-footer-container {
+        position: relative;
+        left: 24%;
+    }
+
+    .item-footer-thumbnail {
+        border-radius: 100%;
+    }
+
+    .item-by {
+        margin: 0em 0.25em;
+        display: inline-block;
+        vertical-align: middle;
+        font-family: 'Crimson Text', serif;
+        font-size: 0.75em;
+    }
+
+    .item-author {
+        display: inline-block;
+        vertical-align: middle;
+        font-family: 'Crimson Text', serif;
+    }
+
+    .item-timestamp {
+        display: inline-block;
+        vertical-align: middle;
+        font-family: 'Crimson Text', serif;
+    }
+}
+
+/* Mobile */
+@media all and (min-width: 100px) and (max-width: 768px){
+    .carousel-control {
+        width: 15px;
+    }
+
+    .carousel-control.right {
+        right: 0%;
+    }
+
+    .carousel-control.left {
+        left: 0%;
+    }
+
+    .carousel-caption {
+        left: 5%;
+        right: 5%;
+        font-size: 24px;
+        top: 40%;
+        line-height: 1.05em;
+    }
+
+    .header {
+        font-size: 16px;
+    }
+
+    .item-footer-container {
+        display: none;
+    }
+
+    .img-responsive {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .glyphicon {
+        font-size: 80%;
+    }
+}
+
+/* All screens */
+.carousel-control {
+    opacity: 1;
+    background-color: black;
+}
+
+
+.glyphicon {
+    top: 50%;
+}
+
+.carousel-caption {
+    color: #258;
+    text-decoration: underline;
+    padding: 0 1em;
+}
+
+span {
+    color: #ffffff;
+    text-decoration: none;
+    text-shadow: none;
+}
+
+.header-row {
+    font-family: 'Crimson Text', serif;
+    margin-left: 8px;
+    margin-bottom: 8px;
+}
+
+.separator {
+    width: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.separator > ul {
+    margin: 0;
+    padding: 0;
+    list-style-position: inside;
+}
+
+body {
+    font-family: 'Crimson Text', serif;
+    margin: 10px;
+}

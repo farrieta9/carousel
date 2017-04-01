@@ -1,0 +1,60 @@
+{
+    "stories": [
+        {
+            "image_path": "./image.png",
+            "article_title": "Former Alabama QB Enrolls At Utah, Hasn't Joined Football Team",
+            "author_image_path": "./author_image.png",
+            "author_name": "Kyle Goon",
+            "article_creation_date": "1h ago"
+        },
+        {
+            "image_path": "./image.png",
+            "article_title": "Equality Utah Seeks Injunction Blocking State's 'Anti-Gay' School Curriculum Laws",
+            "author_image_path": "./author_image.png",
+            "author_name": "Jennifer Dobner",
+            "article_creation_date": "2h ago"
+        },
+        {
+            "image_path": "./image.png",
+            "article_title": "If You Want To See Utah's Natural Parks At Their Best, Go Now",
+            "author_image_path": "./author_image.png",
+            "author_name": "Erin Alberty",
+            "article_creation_date": "8h ago"
+        },
+        {
+            "image_path": "./image.png",
+            "article_title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "author_image_path": "./author_image.png",
+            "author_name": "Peter Parker",
+            "article_creation_date": "1d ago"
+        },
+        {
+            "image_path": "./image.png",
+            "article_title": "A short headline",
+            "author_image_path": "./author_image.png",
+            "author_name": "Victor Stone",
+            "article_creation_date": "30s ago"
+        },
+        {
+            "image_path": "./image.png",
+            "article_title": "some title",
+            "author_image_path": "./author_image.png",
+            "author_name": "Bruce Wayne",
+            "article_creation_date": "1y ago"
+        },
+        {
+            "image_path": "./image.png",
+            "article_title": "some title",
+            "author_image_path": "./author_image.png",
+            "author_name": "Author Curry",
+            "article_creation_date": "today"
+        },
+        {
+            "image_path": "./image.png",
+            "article_title": "some title",
+            "author_image_path": "./author_image.png",
+            "author_name": "Barry Allen",
+            "article_creation_date": "today"
+        }
+    ]
+}
